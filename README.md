@@ -1,9 +1,9 @@
-## CV_Python_Pandas_Portfolio
+## Python (Pandas, Numpy) Portfolio
 This project is based on transactional retail data (orders, returns, customers, products) and focuses on solving core business and product analytics tasks using Python (Pandas, NumPy) on a real-world dataset. 
 
 It covers the full analytical workflow — from raw data validation and preparation to advanced business insights and forecasting. It includes data cleaning, feature engineering, KPI design, segmentation, time series analysis, cohort analysis, and performance evaluation across multiple business dimensions.
 
-# Key analytical tasks performed in the project:
+# Key analytical tasks performed in the project
 1. Data validation and quality checks (missing values, duplicates, logical and range validation)
 2. Feature engineering (e.g., shipping duration calculation, loss flags)
 3. Global KPI calculation (Sales, Profit, Profit Margin, AOV, Discount)
@@ -19,7 +19,7 @@ It covers the full analytical workflow — from raw data validation and preparat
 13. Manager performance analysis (profit stability, risk concentration, contribution analysis)
 14. Forecasting (trend-based sales and profit prediction, growth estimation)
 
-# Key metrics used throughout the project:
+# Key metrics used throughout the project
 1. Sales, Profit, Profit Margin
 2. Total Orders, Average Order Value (AOV), Average Discount
 3. Loss Share, Total Loss, Percent of Negative Transactions
@@ -30,7 +30,7 @@ It covers the full analytical workflow — from raw data validation and preparat
 8. Shipping Days, Return Rate
 9. Forecast Growth
    
-# Main objective of the project:
+# Main objective of the project
 To demonstrate practical understanding and the ability to apply Python Pandas for real-world data analysis tasks, including:
 1. Data loading and inspection (read_excel, shape, dtypes)
 2. Data cleaning and validation (isna, duplicated, describe)
